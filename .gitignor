@@ -1,0 +1,8 @@
+## Ignore Visual Studio temporary files, build results
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+*.vcxproj
+*.vcxproj.filtres
+*.vcxproj.user
