@@ -1,9 +1,8 @@
-## Ignore Visual Studio temporary files, build results
-
-# Visual Studio 2015/2017 cache/options directory
-.vs/GitTest/v16
+GitTest/.vs/GitTest/v16
 Debug
 
 *.vcxproj
 *.vcxproj.filtres
 *.vcxproj.user
+GitTest/.vs/GitTest/v16/.suo
+GitTest/.vs/GitTest/v16/Browse.VC.db
