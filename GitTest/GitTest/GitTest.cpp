@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Hello Git V2!\n";
+    std::cout << "Hello Git first branch!\n";
 }
