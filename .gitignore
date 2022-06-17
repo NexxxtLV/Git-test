@@ -6,3 +6,5 @@ Debug
 *.vcxproj.user
 GitTest/.vs/GitTest/v16/.suo
 GitTest/.vs/GitTest/v16/Browse.VC.db
+GitTest/GitTest/Debug
+GitTest/Debug
